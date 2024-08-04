@@ -1,0 +1,15 @@
+/home/leonardo/Documents/development/hangman/Hangman/bin/Debug/net8.0/Hangman
+/home/leonardo/Documents/development/hangman/Hangman/bin/Debug/net8.0/Hangman.deps.json
+/home/leonardo/Documents/development/hangman/Hangman/bin/Debug/net8.0/Hangman.runtimeconfig.json
+/home/leonardo/Documents/development/hangman/Hangman/bin/Debug/net8.0/Hangman.dll
+/home/leonardo/Documents/development/hangman/Hangman/bin/Debug/net8.0/Hangman.pdb
+/home/leonardo/Documents/development/hangman/Hangman/obj/Debug/net8.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/Documents/development/hangman/Hangman/obj/Debug/net8.0/Hangman.AssemblyInfoInputs.cache
+/home/leonardo/Documents/development/hangman/Hangman/obj/Debug/net8.0/Hangman.AssemblyInfo.cs
+/home/leonardo/Documents/development/hangman/Hangman/obj/Debug/net8.0/Hangman.csproj.CoreCompileInputs.cache
+/home/leonardo/Documents/development/hangman/Hangman/obj/Debug/net8.0/Hangman.sourcelink.json
+/home/leonardo/Documents/development/hangman/Hangman/obj/Debug/net8.0/Hangman.dll
+/home/leonardo/Documents/development/hangman/Hangman/obj/Debug/net8.0/refint/Hangman.dll
+/home/leonardo/Documents/development/hangman/Hangman/obj/Debug/net8.0/Hangman.pdb
+/home/leonardo/Documents/development/hangman/Hangman/obj/Debug/net8.0/Hangman.genruntimeconfig.cache
+/home/leonardo/Documents/development/hangman/Hangman/obj/Debug/net8.0/ref/Hangman.dll
